@@ -1,1 +1,2 @@
 This is a manual file.  I'm working on the process of adding and pushing this file to get.
+This is now an edit of the manual file.  What will the VS Code status be?
