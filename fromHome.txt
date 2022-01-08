@@ -1,1 +1,2 @@
-this is from home on Surface
+this is from home on Surface.
+this is a new line entered from nano.  Now the file will needed updated.
